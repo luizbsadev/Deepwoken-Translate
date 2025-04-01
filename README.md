@@ -1,1 +1,1 @@
-#Tradutor PT-BR para dialogos do DeepWoken
+# Tradutor PT-BR para dialogos do DeepWoken
